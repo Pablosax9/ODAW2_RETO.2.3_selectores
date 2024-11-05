@@ -1,7 +1,7 @@
 # Reto 2.3
 
 Nombre y Apellidos: Pablo Rodríguez Crespo
-URL del repositorio de gitlab:
+URL del repositorio de gitlab: https://github.com/Pablosax9/ODAW2_RETO.2.3_selectores.git
 
 ## Ejercicio: Selectores de Atributos en CSS
 
