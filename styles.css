@@ -1,0 +1,31 @@
+[data-info] {
+    border: 2px solid blue;
+}
+
+[data-info="principal"] {
+    background-color: lightyellow;
+}
+
+[class*="destacado"] {
+    font-weight: bold;
+}
+
+[data-tags~="tecnologia"] {
+    color: green;
+}
+
+[data-nombre^="user-"] {
+    text-transform: uppercase;
+}
+
+[data-url$=".jpg"] {
+    border: 3px solid red;
+}
+
+[title*="oferta"] {
+    background-color: yellow;
+}
+
+[data-case="ejemplo" i] {
+    font-style: italic;
+}
